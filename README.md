@@ -7,7 +7,7 @@ DNSCrypt with Unbound working together
 Download Unbound and DNSCrypt to install
 -------------------------------------------
 
-1. Download Unbound and installing
+#Download Unbound and installing
 
 http://unbound.net/
 
@@ -15,7 +15,7 @@ Download unbound for windows, then install it to D:\unbound
 
 
 
-2. Download DNSCrypt to install 
+#Download DNSCrypt to install 
 
 http://dnscrypt.org/
 
@@ -23,7 +23,7 @@ I perfered download full version for windows.
 And extract it from zip file then rename folder to D:\dnscrypt
 
 
-3. create file install.reg and import it
+#create file install.reg and import it
 
 ```
 REGEDIT4
@@ -43,7 +43,7 @@ REGEDIT4
 ```
 
 
-4. modify unbound configure file server.conf
+#modify unbound configure file server.conf
 
 ```
 server: 
