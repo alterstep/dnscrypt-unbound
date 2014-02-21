@@ -7,8 +7,8 @@ DNSCrypt with Unbound working together
 Download Unbound and DNSCrypt to install
 -------------------------------------------
 
-#Download Unbound and installing
-
+Download Unbound and installing
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 http://unbound.net/
 
 Download unbound for windows, then install it to D:\unbound
